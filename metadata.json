@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Othello",
+  "description": "A modern Othello (Reversi) game featuring a Grandmaster AI powered by Gemini 2.5 Flash. Supports local multiplayer and async remote play via link sharing.",
+  "requestFramePermissions": []
+}
